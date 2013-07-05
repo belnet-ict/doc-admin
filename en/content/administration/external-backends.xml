@@ -38,7 +38,8 @@ Customer data used or displayed within OTRS is highly customizable. The followin
 </para>
 
 <para>
-Use the configuration parameters of the following script in your <filename>Kernel/Config.pm</filename> file, if you want to display customer information in your agent interface.
+Use the following SysConfig parameters if you want to display customer
+information in your agent interface.
 </para>
 
 <para>
@@ -52,7 +53,7 @@ Use the configuration parameters of the following script in your <filename>Kerne
 </para>
 
 <para>
-<emphasis>Script: Kernel/Config.pm configuration parameters.</emphasis>
+<emphasis>Script: SysConfig configuration parameters.</emphasis>
 </para>
 
 </section>
