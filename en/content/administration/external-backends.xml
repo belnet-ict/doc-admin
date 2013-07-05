@@ -48,7 +48,6 @@ Use the configuration parameters of the following script in your <filename>Kerne
     # Queue view)
     $Self->{'Ticket::Frontend::CustomerInfoCompose'} = 1;
     $Self->{'Ticket::Frontend::CustomerInfoZoom'} = 1;
-    $Self->{'Ticket::Frontend::CustomerInfoQueue'} = 0;
 </programlisting>
 </para>
 
